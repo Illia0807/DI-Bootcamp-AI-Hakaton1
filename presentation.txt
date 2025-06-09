@@ -1,0 +1,29 @@
+Project Proposal – AI-Based Personalized Content Generator
+
+Hi Yosef
+
+As part of the upcoming Hackathon project, I would like to pursue Topic 1: AI-Based Personalized Content Generator.
+
+🔍 Intentions and Motivation
+My goal is to create a Python-based system that recommends personalized content (such as books, music, and daily tips) based on synthetic user profiles and activity logs.
+ This project combines logic, creativity, and data analysis — an ideal match for my ENTP personality and my interest in generative AI.
+
+This project also resonates with real-world applications of generative AI, a field I am particularly interested in exploring further.
+
+🎯 Desired Outcome
+By the end of the project, I aim to deliver a working system that:
+
+Collects and analyzes synthetic user data (e.g., name, age, interests, activity logs);
+
+Performs trend analysis using Pandas and SciPy (e.g., distribution of interests, user similarity);
+
+Generates content recommendations based on user interests and behavioral patterns;
+
+Visualizes trends and insights using Matplotlib and Seaborn (e.g., interest heatmaps, bar charts by segment);
+
+Applies additional statistical methods (e.g., chi-square test or cosine similarity) to model more nuanced logic in user clustering or behavior prediction.-perhabs
+
+Looking forward to your feedback and any suggestions you may have regarding the direction of the project.
+
+Sincerely,
+[Illia Andriienko]
