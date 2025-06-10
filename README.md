@@ -38,53 +38,46 @@ A Python project that generates synthetic user data, analyzes interest distribut
 
 📂 Project Structure
 +-------------------------------------------------------+
-| Personalized Content Generator |
+|                Personalized Content Generator         |
 +-------------------------------------------------------+
-|
-v
-+----------------------------+
-| 1. Import Libraries & Setup |
-+----------------------------+
-|
-v
-+-------------------------------------+
-| 2. Generate Synthetic User Data |
-| - User profiles with attributes |
-| - Interests, activity logs |
-+-------------------------------------+
-|
-v
-+-------------------------------------+
-| 3. Data Preprocessing & Analysis |
-| - Convert interests to one-hot |
-| - Exploratory data analysis |
-| - Visualize distributions |
-+-------------------------------------+
-|
-v
-+-------------------------------------+
-| 4. Statistical Analysis (Chi-Square)|
-| - Test distribution significance |
-+-------------------------------------+
-|
-v
-+-------------------------------------+
-| 5. Recommendation Engine |
-| - Compute user similarity |
-| - Generate personalized suggestions |
-+-------------------------------------+
-|
-v
-+-------------------------------------+
-| 6. Visualization |
-| - Visualize recommended interests |
-| - User interest heatmaps |
-+-------------------------------------+
-|
-v
-+----------------------------+
-| 7. Conclusions & Next Steps |
-+----------------------------+
+                               |
+       +-----------------------------------------------+
+       | 1. Import Libraries & Setup                  |
+       +-----------------------------------------------+
+                               |
+       +-----------------------------------------------+
+       | 2. Generate Synthetic User Data               |
+       | - User profiles with attributes               |
+       | - Interests, activity logs                    |
+       +-----------------------------------------------+
+                               |
+       +-----------------------------------------------+
+       | 3. Data Preprocessing & Analysis             |
+       | - Convert interests to one-hot               |
+       | - Exploratory data analysis                  |
+       | - Visualize distributions                     |
+       +-----------------------------------------------+
+                               |
+       +-----------------------------------------------+
+       | 4. Statistical Analysis (Chi-Square)         |
+       | - Test distribution significance             |
+       +-----------------------------------------------+
+                               |
+       +-----------------------------------------------+
+       | 5. Recommendation Engine                     |
+       | - Compute user similarity                     |
+       | - Generate personalized suggestions          |
+       +-----------------------------------------------+
+                               |
+       +-----------------------------------------------+
+       | 6. Visualization                             |
+       | - Visualize recommended interests            |
+       | - User interest heatmaps                      |
+       +-----------------------------------------------+
+                               |
+       +-----------------------------------------------+
+       | 7. Conclusions & Next Steps                  |
+       +-----------------------------------------------+
 
 🔧 Potential Improvements
 Add more detailed user features (age, activity level, time patterns).
